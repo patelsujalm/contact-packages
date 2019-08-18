@@ -1,0 +1,19 @@
+{
+    "name": "patelsujal/contact",
+    "description": "this is package is send mail",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "patelsujal",
+            "email": "sujalpatel.php@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "patelsujal\\contact\\": "src/"
+        }
+    }
+}
